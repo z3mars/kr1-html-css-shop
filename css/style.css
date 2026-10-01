@@ -54,7 +54,7 @@
 header,
 main,
 footer {
-  padding: 20px;
+  padding: var(--space-lg);
 }
 
 body {
